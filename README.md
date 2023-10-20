@@ -9,11 +9,11 @@
 ![VueJS](https://img.shields.io/badge/VueJS-Learnig-green)
 
 
-Hallo! Nama saya Risma Munawaroh saya seorang pelajar di SMKN 1 Ciamis dengan jurusan Rekayasa Perangkat Lunak
+Hallo! Nama saya Risma Munawaroh saya merupakan lulusan baru dari SMKN 1 Ciamis dengan jurusan Rekayasa Perangkat Lunak
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying Software Engineering at SMKN 1 CIAMIS
+- 🔭 I’m a fresh graduate of Software Engineering at SMKN 1 CIAMIS
 - 🌱 I’m currently learning VueJs
 - 👯 I’m looking to collaborate on Open Source and/or Kpops projects
 - 🤔 I’m looking for help with ...
